@@ -5,4 +5,4 @@ En este repositorio estan los archivos bases de mi pagina personal. Mi pagina de
 -¿De donde vengo?
 -Porque estudio TIC'S?
 -Mis intereses 
--Mis hibbies
+-Mis hobbies
